@@ -35,7 +35,7 @@ A: Yes, this is where the development stops.
 ## See also
 
 - [venom](https://github.com/xqb64/venom) - My first attempt, written in C
-- [synapse](https://github.com/xqb64/synapse) - My second attempt, written in C
+- [synapse](https://github.com/xqb64/synapse) - My second attempt, written in Rust
 
 ## Licensing
 
